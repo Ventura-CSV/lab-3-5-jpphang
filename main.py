@@ -7,7 +7,8 @@ def main():
     Code Your Program here
     ########################################
     """
-    duplication = 0
+    if num1 = num2 = num3:
+        duplication = 3
 
     ########################################
     # Do not delete the return statement
