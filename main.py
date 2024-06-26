@@ -7,8 +7,13 @@ def main():
     Code Your Program here
     ########################################
     """
-    if num1 = num2 = num3:
+    duplication = 0
+    
+    if num1 == num2 == num3:
         duplication = 3
+        
+    elif num1 == num2 and num2 != num3:
+        
 
     ########################################
     # Do not delete the return statement
