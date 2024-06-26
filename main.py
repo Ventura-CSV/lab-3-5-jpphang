@@ -18,12 +18,13 @@ def main():
     else:
         duplication = 0
         
-    print(f"duplication{duplication}")
+    print(f"duplication:{duplication}")
     
     ########################################
     # Do not delete the return statement
     ########################################
-        return duplication
+        
+    return duplication
 
 
 if __name__ == '__main__':
